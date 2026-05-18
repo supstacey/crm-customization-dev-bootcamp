@@ -3,8 +3,8 @@ on:
     branches:
       - main
 env:
-  DEFAULT_ACCOUNT_ID: ${{ secrets.HUBSPOT_ACCOUNT_ID }}
-  DEFAULT_PERSONAL_ACCESS_KEY: ${{ secrets.HUBSPOT_PERSONAL_ACCESS_KEY }}
+  DEFAULT_ACCOUNT_ID: ${{ 147676365 }}
+  DEFAULT_PERSONAL_ACCESS_KEY: ${{ CiRldTEtOTI3Zi0zYjk4LTRiZmEtYTc3ZC1jNjkwOTIzNTZiOTUQzbm1RhjZ1I4VKhkABeaRgilwIZSyLrIK8Po2njSoz6Gj4jAHSgNldTE }}
 jobs:
   deploy:
     runs-on: ubuntu-latest
