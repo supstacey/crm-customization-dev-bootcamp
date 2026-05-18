@@ -14,4 +14,4 @@ jobs:
       - name: HubSpot Project Action
         uses: HubSpot/hubspot-project-actions@v1.1.0
         with:
-          path: cards/01.simple_version/RentalCars
+          project_dir: cards/01.simple_version/RentalCars
