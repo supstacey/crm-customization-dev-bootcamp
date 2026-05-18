@@ -1,8 +1,7 @@
 {
   "name": "hubspot-testing-bootcamp",
   "description": "This is an example private app that shows a custom card on the Contact record tab built with React-based frontend. This card demonstrates a simple handshake with HubSpot's serverless backend.",
-  "uid": "hubspot-testing-bootcamp
-",
+  "uid": "hubspot-testing-bootcamp",
   "scopes": [
     "crm.objects.contacts.read",
     "crm.objects.contacts.write",
