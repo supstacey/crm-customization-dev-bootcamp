@@ -13,3 +13,5 @@ jobs:
         uses: actions/checkout@v4
       - name: HubSpot Project Action
         uses: HubSpot/hubspot-project-actions@v1.1.0
+        with:
+          path: cards/01.simple_version/RentalCars
